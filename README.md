@@ -30,8 +30,8 @@ A class that stores user input and checks if the given input or full combination
 ## AudioManager.cs
 Handles audio clip playback.
 
-## About
+# About
 I created this combination system for myself for different personal Unity projects. 
 
-## Copyright 
+# Copyright 
 Created by Sami S. use of any kind without a written permission from the author is not allowed. But feel free to take a look.
