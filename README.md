@@ -14,7 +14,7 @@ Combo class contains following features:
 
 * Combo can have a time limit, combo will fail if time runs out 
 
-* Combo can be set to fail instantly if incorrect input is given, but in this case it makes more sense to allow user give full input and only the the sequence is checked
+* Combo can be set to fail instantly if incorrect input is given, but in this case it makes more sense to allow user give a full sequence and only then the sequence is checked
 
 * Combo can be reset if it has failed
 
