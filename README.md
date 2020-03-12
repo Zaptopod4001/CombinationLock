@@ -25,7 +25,7 @@ Combo class contains following features:
 A demo class that shows how ComboSeq.cs class can be used.
 
 ## ComboSeq.cs
-A class that stores user input and checks if the given input or full combination is valid, also contains a timer to check if input is given within the time limit.
+A class that stores user input and checks if the given input or full combination is valid, also contains a timer to check if the input sequence is given within the time limit.
 
 ## AudioManager.cs
 Handles audio clip playback.
